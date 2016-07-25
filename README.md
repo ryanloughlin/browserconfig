@@ -1,6 +1,6 @@
 ## browserconfig
 
-#### master_preferences -
+#### **master_preferences -**
 *Initial settings for Chrome. Only affects creation of new Chrome profiles. Place next to exe*
 
 #### cck2.cfg -
